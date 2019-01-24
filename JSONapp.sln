@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JSONapp", "JSONapp\JSONapp.csproj", "{88C7C4AB-8A30-457E-8A6A-C22D42194E25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DimaII", "DimaII\DimaII.csproj", "{DC302436-43CB-4148-9905-A388008AA36D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88C7C4AB-8A30-457E-8A6A-C22D42194E25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88C7C4AB-8A30-457E-8A6A-C22D42194E25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88C7C4AB-8A30-457E-8A6A-C22D42194E25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88C7C4AB-8A30-457E-8A6A-C22D42194E25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC302436-43CB-4148-9905-A388008AA36D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC302436-43CB-4148-9905-A388008AA36D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC302436-43CB-4148-9905-A388008AA36D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC302436-43CB-4148-9905-A388008AA36D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B88F21AE-3851-4A65-89A6-CCA23895D410}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,116 @@
+{
+    "users": [{
+        "name": "Mark",
+        "age": 56,
+        "email": "lalka1@gmail.com",
+        "country": "Vest virginia",
+        "someUselessStuff": "ololo52",
+        "nameOfDog": "doggy",
+        "breakfast": "cereal"
+    },{
+        "name": "John",
+        "age": 1488,
+        "email": "test45@mail.ru",
+        "country": "Mountain Mama",
+        "someUselessStuff": "utgh",
+        "nameOfDog": "psina",
+        "breakfast": "shit"
+    },{
+        "name": "Vinceslav",
+        "age": 1337,
+        "email": "zfgt45@mail.ru",
+        "country": "Take me home",
+        "someUselessStuff": "nponono",
+        "nameOfDog": "oh hi mark",
+        "breakfast": "you"
+    },{
+        "name": "Vladislav",
+        "age": 69,
+        "email": "fg45@mail.ru",
+        "country": "Country roads",
+        "someUselessStuff": "you",
+        "nameOfDog": "what?",
+        "breakfast": "tear me"
+    },{
+        "name": "Baby dont hurt me",
+        "age": 420,
+        "email": "abdc5@mail.ru",
+        "country": "big iron",
+        "someUselessStuff": "tell me whaaat",
+        "nameOfDog": "say what",
+        "breakfast": "apart"
+    },{
+        "name": "Dont hurt me",
+        "age": 3,
+        "email": "loh65@mail.ru",
+        "country": "big iron",
+        "someUselessStuff": "hehe boy",
+        "nameOfDog": "again",
+        "breakfast": "Lisa"
+    },{
+        "name": "no more",
+        "age": 7,
+        "email": "samsa45@mail.ru",
+        "country": "when he try",
+        "someUselessStuff": "rubudub",
+        "nameOfDog": "i dare you",
+        "breakfast": "soooo"
+    },{
+        "name": "never gonna",
+        "age": 42,
+        "email": "kuchity45@mail.ru",
+        "country": "to match the ranger",
+        "someUselessStuff": "Fallout76 > Fallout 1/2",
+        "nameOfDog": "i double dare you",
+        "breakfast": "wat do"
+    },{
+        "name": "give you up",
+        "age": 451,
+        "email": "fgh@mail.ru",
+        "country": "with the",
+        "someUselessStuff": "magnus ne predaval",
+        "nameOfDog": "say what again",
+        "breakfast": "u"
+    },{
+        "name": "never gonna",
+        "age": 666,
+        "email": "himark@mail.ru",
+        "country": "big iron on his hip",
+        "someUselessStuff": "cheburek",
+        "nameOfDog": "English motherfucker",
+        "breakfast": "think"
+    },{
+        "name": "let you down",
+        "age": 8800,
+        "email": "jack@mail.ru",
+        "country": "truth is",
+        "someUselessStuff": "kek",
+        "nameOfDog": "do you speak it",
+        "breakfast": "the mother"
+    },{
+        "name": "stop",
+        "age": 555,
+        "email": "trex@mail.ru",
+        "country": "the game",
+        "someUselessStuff": "lol",
+        "nameOfDog": "Winston",
+        "breakfast": "of all omlets"
+    },{
+        "name": "please",
+        "age": 35,
+        "email": "nottest1488@mail.ru",
+        "country": "was rigged",
+        "someUselessStuff": "wapapapa",
+        "nameOfDog": "cker",
+        "breakfast": "shrek"
+    },{
+        "name": "thx",
+        "age": 35,
+        "email": "nottest1487@mail.ru",
+        "country": "from the start",
+        "someUselessStuff": "skidipadpap",
+        "nameOfDog": "dogmeat",
+        "breakfast": "banan"
+    }
+]
+}
